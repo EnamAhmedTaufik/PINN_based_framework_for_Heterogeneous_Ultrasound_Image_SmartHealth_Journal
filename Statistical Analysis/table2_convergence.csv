@@ -1,0 +1,5 @@
+Dataset,Configuration,Avg Epochs,Std Epochs,Speed-up
+Liver,Baseline,50.0,0.0,—
+Liver,PINN,25.333333333333332,1.699673171197595,49.3%
+Breast,Baseline,50.0,0.0,—
+Breast,PINN,15.0,6.683312551921141,70.0%
