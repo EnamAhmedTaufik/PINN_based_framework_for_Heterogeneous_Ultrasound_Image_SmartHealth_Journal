@@ -1,9 +1,4 @@
 # A Physics-Aware Deep Learning Framework for Heterogeneous Ultrasound Image Classification
-
-## Overview
-This repository accompanies the paper:
-
-**"A Physics-Aware Deep Learning Framework for Heterogeneous Ultrasound Image Classification"**  
 Published in *Smart Health (2026)*
 
 ### Authors
@@ -64,8 +59,7 @@ Instead of relying solely on data-driven learning, the model embeds **ultrasound
 - matplotlib  
 
 ### Installation
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+gh repo clone EnamAhmedTaufik/PINN-based-framework-for-Heterogeneous-Ultrasound-Image---Smart-Health-Paper
 pip install -r requirements.txt
 
 
@@ -112,9 +106,6 @@ This project is licensed under the **MIT License**.
 MIT License
 
 Copyright (c) 2026
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
 
 ### Contact
 
