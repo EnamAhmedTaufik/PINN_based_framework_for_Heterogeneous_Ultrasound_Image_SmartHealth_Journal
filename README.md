@@ -59,7 +59,7 @@ Instead of relying solely on data-driven learning, the model embeds **ultrasound
 - matplotlib  
 
 ### Installation
-gh repo clone EnamAhmedTaufik/PINN-based-framework-for-Heterogeneous-Ultrasound-Image---Smart-Health-Paper
+gh repo clone EnamAhmedTaufik/PINN_based_framework_for_Heterogeneous_Ultrasound_Image_SmartHealth_Journal
 pip install -r requirements.txt
 
 
@@ -111,5 +111,4 @@ Copyright (c) 2026
 
 For questions or collaborations:
 
-Enam Ahmed Taufik
-Email: enam.ahmed.taufik@gmail.com
+Enam Ahmed Taufik (enam.ahmed.taufik@gmail.com)
