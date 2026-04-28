@@ -112,3 +112,4 @@ Copyright (c) 2026
 For questions or collaborations:
 
 Enam Ahmed Taufik (enam.ahmed.taufik@gmail.com)
+Abdullah Khondoker (abdullahkhondoker201@gmail.com)
